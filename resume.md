@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-![Resume Image](jpg/Jillian_Weiss_Resume.jpg)
+![Resume Image](Jillian_Weiss_Resume.jpg)
 
 [Download PDF](pdf/Jillian_Weiss_Resume.pdf)
 
